@@ -1,0 +1,1 @@
+To run the game run `npm run start`.
